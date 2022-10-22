@@ -1,25 +1,22 @@
 <!-- START Header.mustache -->
 <br />
 <div align="center">
-  <a href="https://github.com/Jax-Core/ReadME-Test">
-    <img src="https://raw.githubusercontent.com/Jax-Core/ReadME-Template/main/Resources/Icons/ReadME-Test.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/BeatSaberPlus/BeatSaberPlus">
+    <img src="https://github.com/BeatSaberPlus/GithubResources/blob/main/images/%2B%20Logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">ReadME-Test</h3>
+<h3 align="center">Beat Saber+</h3>
   <p align="center">
-    Tests CoreRepo dynamic readme
+    An upgrade to the original Beat Saber game
     <br />
-    <a href="https://discord.gg/JmgehPSDD6">Help, Report Bugs & Request Features »</a>
+    <a href="https://discord.gg/nM5eJpzyWp">Help, Report Bugs & Request Features »</a>
   </p>
 </div>
 <!-- END Header.mustache -->
 <!-- START ShieldsFull.mustache -->
 <p align="center">
-  <img alt="Latest by date" src="https://img.shields.io/github/v/tag/Jax-Core/ReadME-Test?label=Version&style=for-the-badge" />
-  <img alt="Releases" src="https://img.shields.io/github/downloads/Jax-Core/ReadME-Test/total?style=for-the-badge" />
-  <img alt="Release date" src="https://img.shields.io/github/release-date/Jax-Core/ReadME-Test?label=Last%20Update&style=for-the-badge" />
-  <img alt="Discord" src="https://img.shields.io/discord/880445067754610688?label=Discord%20server&style=for-the-badge" />
-  <img alt="Github" src="https://img.shields.io/github/license/Jax-Core/ReadME-Test?style=for-the-badge" />
+  <img alt="Latest Stable Version" src="https://img.shields.io/badge/Latest%20Stable%20Version-1.25.1-orange" />
+  <img alt="Latest Testing Version" src="https://img.shields.io/badge/Latest%20Testing%20Version-1.25.1-orange" />
 </p><!-- END ShieldsFull.mustache -->
 <!-- ShieldsBasic for shields without download count and last update date--> 
 
@@ -27,48 +24,50 @@
 
 ## About
 
-![ReadME-Test](https://raw.githubusercontent.com/Jax-Core/ReadME-Template/main/Resources/Splash/ReadME-Test.png)
+![BeatSaberPlus](https://raw.githubusercontent.com/BeatSaberPlus/GithubResources/main/images/Beat%20Saber%2B%20Logo.png)
 <!-- END About.mustache -->
-Long description goes here
+Beat Saber+ is an upgrade to the base game featuring upgraded standard sabers, built-in custom songs and much more.
 
 <!-- START Features.mustache -->
 
 ## Features<!-- END Features.mustache -->
-* Bulleted features list goes here
+* Upgraded standard sabers
+* Built-in, ready to play community-made songs
+* QoL-Updates
 
 <!-- START GetStarted.mustache -->
 
 ## Getting Started
 
 ### Prerequisites
-- **Windows 10** or above
-> For older systems, **Powershell v5.1 or newer** is required. Upgrade powershell **[here](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2#upgrading-existing-windows-powershell)**!
+- **A Windows PC that can run the Oculus or SteamVR Software aswell as Beat Saber and Beat Saber+**
+- **Administrator account**
+- **Basic Knowledge about Beat Saber plugins and Custom Songs**
 
 ### Installation 
-Run the following command in Powershell to download the latest version of JaxCore.
+You can now already join the Beta Testing Group without applying by following these steps; **This method will include deleting your other plugins and songs. If you would like to keep them, please make a backup of the whole Beat Saber folder to a safe location on your PC**
 
-(To launch Powershell as an Admin: `Win + R` -> `powershell` -> Press `CTRL + SHIFT + ENTER` on your keyboard. Powershell can also be launched via Windows Search.)
+- Scroll up and press the green "Code" button
+- Press "Download ZIP"
+- Extract the files to a folder on your PC **(DO NOT EXTRACT THESE IMMEDIATELY TO YOUR BEAT SABER FOLDER)**
+- Check what folders are in the downloaded ZIP (Might have to enter another folder as Windows's Extraction Procedure is a bit weird) and delete the corresponding folders in your Beat Saber folder.
+- **Drag** the folders you just downloaded into the Beat Saber folder
+- You should now be good to go!
 
-```
-Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/Jax-Core/JaxCore/master/CoreInstaller.ps1" | Invoke-Expression
-```
 
-> Alternatively you can download it from the [website](https://jax-core.github.io/)
-
-After you've proceeded through the welcome screen, select `ReadME-Test` (might have to scroll down) and click `Install`. It will appear in the library page after that.
+Starting Beat Saber again can be done as normal.
 <br />
 <br /><!-- END GetStarted.mustache -->
 <!-- START Setup.mustache -->
 
 ### Configuration
-Use the JaxCore menu to configure ReadME-Test.
-For more information, visit [JaxCore's documentation](https://jaxcore.gitbook.io/core/)
+Use the in-game plugin menus to configure various Beat Saber+ Settings
 <br>
 <br><!-- END Setup.mustache -->
 <!-- START Footer.mustache -->
 
 ## Need assistance?
-* Join the [CoreCommunity Discord Server](https://discord.gg/JmgehPSDD6) for help
+* Join the Beat Saber+ Discord Server]https://discord.gg/nM5eJpzyWp) for help
 * or [Create an issue](https://github.com/Jax-Core/ReadME-Test)
 
 ## Say hi!
