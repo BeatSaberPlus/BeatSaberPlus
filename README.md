@@ -68,16 +68,14 @@ Use the in-game plugin menus to configure various Beat Saber+ Settings
 
 ## Need assistance?
 * Join the Beat Saber+ Discord Server]https://discord.gg/nM5eJpzyWp) for help
-* or [Create an issue](https://github.com/Jax-Core/ReadME-Test)
+* or [Create an issue](https://github.com/BeatSaberPlus/BeatSaberPlus/issues/new/choose)
 
 ## Say hi!
-* Follow me on 👨‍💻 [Github](https://github.com/EnhancedJax) and stay updated on new things that I make
-* You can also watch me on 🐦 [DeviantArt](https://www.deviantart.com/jaxoriginals) instead
-* Message me on 🗨️ [Discord](https://discord.gg/JmgehPSDD6)
+* Get in touch on💻 [Discord](https://discord.gg/nM5eJpzyWp)!
 
 <p align="center">
-<i>Made with ❤️ by Jax</i>
+<i></i>
    <br/><br/>
-   <img src="https://raw.githubusercontent.com/Jax-Core/ReadME-Template/main/Resources/Assets/Logo.png"  width="32" height="32"/>
+   <img src="https://raw.githubusercontent.com/BeatSaberPlus/GithubResources/main/images/%2B%20Logo.png"  width="32" height="32"/>
 </p>
 <!-- END Footer.mustache -->
