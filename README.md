@@ -67,7 +67,7 @@ Use the in-game plugin menus to configure various Beat Saber+ Settings
 <!-- START Footer.mustache -->
 
 ## Need assistance?
-* Join the Beat Saber+ Discord Server]https://discord.gg/nM5eJpzyWp) for help
+* Join the [Beat Saber+ Discord Server](https://discord.gg/nM5eJpzyWp) for help
 * or [Create an issue](https://github.com/BeatSaberPlus/BeatSaberPlus/issues/new/choose)
 
 ## Say hi!
