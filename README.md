@@ -109,6 +109,9 @@ Use the in-game plugin menus to configure various Beat Saber+ Settings
 ## Say hi!
 * Get in touch on💻 [Discord](https://discord.gg/nM5eJpzyWp)!
 
+## Contributions and Pull Requests
+Pull Requests will be manually checked by a [Organization Member](https://github.com/orgs/BeatSaberPlus/people)
+
 <p align="center">
 <i></i>
    <br/><br/>
