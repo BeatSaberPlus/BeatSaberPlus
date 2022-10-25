@@ -67,31 +67,31 @@ Starting Beat Saber again can be done as normal.
 
 Beat Saber+ comes with these plugins;
 
-Cinema
-BeatSaver Downloader
-BeatSaver Updater
-BeatSaver Voting
-BeatTogether
-BetterSongSearch
-BS Utils
-BSML
-Camera2
-CustomAvatars
-Custom Miss Text
-Custom Notes
-Custom Platforms
-Custom Walls
-FastFail
-Intro Skip
-MenuPillars
-Menu Saber Colors
-MorePlaylists
-PlaylistManager
-Saber Factory
-ScoreSaber
-SiraUtil
-Smart Song Suggest
-SongCore
+- Cinema
+- BeatSaver Downloader
+- BeatSaver Updater
+- BeatSaver Voting
+- BeatTogether
+- BetterSongSearch
+- BS Utils
+- BSML
+- Camera2
+- CustomAvatars
+- Custom Miss Text
+- Custom Notes
+- Custom Platforms
+- Custom Walls
+- FastFail
+- Intro Skip
+- MenuPillars
+- Menu Saber Colors
+- MorePlaylists
+- PlaylistManager
+- Saber Factory
+- ScoreSaber
+- SiraUtil
+- Smart Song Suggest
+- SongCore
 
 <br />
 <br /><!-- END GetStarted.mustache -->
