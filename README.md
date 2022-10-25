@@ -77,7 +77,6 @@ Beat Saber+ comes with these plugins;
 - BSML
 - Camera2
 - CustomAvatars
-- Custom Miss Text
 - Custom Notes
 - Custom Platforms
 - Custom Walls
