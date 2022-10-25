@@ -112,6 +112,10 @@ Use the in-game plugin menus to configure various Beat Saber+ Settings
 ## Contributions and Pull Requests
 Pull Requests will be manually checked by a [Organization Member](https://github.com/orgs/BeatSaberPlus/people)
 
+
+# [**DOWNLOAD LATEST VERSION**](https://github.com/BeatSaberPlus/BeatSaberPlus/releases/download/v1.1/BeatSaberPlus-main.zip)
+
+
 <p align="center">
 <i></i>
    <br/><br/>
