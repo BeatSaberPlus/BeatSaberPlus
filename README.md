@@ -45,17 +45,54 @@ Beat Saber+ is an upgrade to the base game featuring upgraded standard sabers, b
 - **Basic Knowledge about Beat Saber plugins and Custom Songs**
 
 ### Installation 
-You can now already join the Beta Testing Group without applying by following these steps; **This method will include deleting your other plugins and songs. If you would like to keep them, please make a backup of the whole Beat Saber folder to a safe location on your PC**
+Beat Saber+ is here! Follow these steps to get started; **This method will include deleting your other plugins and songs. If you would like to keep them, please make a backup of the whole Beat Saber folder to a safe location on your PC**
 
 - Scroll up and press the green "Code" button
 - Press "Download ZIP"
 - Extract the files to a folder on your PC **(DO NOT EXTRACT THESE IMMEDIATELY TO YOUR BEAT SABER FOLDER)**
-- Check what folders are in the downloaded ZIP (Might have to enter another folder as Windows's Extraction Procedure is a bit weird) and delete the corresponding folders in your Beat Saber folder.
-- **Drag** the folders you just downloaded into the Beat Saber folder
+- Enter your Beat Saber Directory and make sure you have BSIPA Installed correctly.
+- Go into "Beat Saber_Data" and delete "CustomLevels"
+- Go back to the Beat Saber Directory and delete the folder "Plugins"
+- Put the folders "CustomAvatars", "CustomNotes", "CustomPlatforms", "CustomSabers" and "CustomWalls" into the Beat Saber Directory.
+- Put the newly downloaded folder "Plugins" into the same directory as the one you deleted was in.
+- Put the newly downloaded folder "CustomLevels" into the "Beat Saber_Data" directory.
+- If you have one, delete the folder in the Beat Saber Directory called "Playlists"
+- Put the newly downloaded folder "Playlists" into the Beat Saber Directory
 - You should now be good to go!
 
 
+**IMPORTANT:** NO DLC WILL COME BUNDLED WITH BEAT SABER+. ALL DLC MUST BE DOWNLOADED BY STEAM OR OCULUS AND WILL NEVER COME BUNDLED INSIDE A BEAT SABER+ DOWNLOAD. If a "Beat Saber+" Download contains a folder called "DLC", delete the full downloaded folder as it may contain a Malicious Plugin that can infect your PC. Always make sure to download Beat Saber+ from this page **ONLY**, or our [itch.io page](https://wasthathaze.itch.io/beatsaberplus)
+
 Starting Beat Saber again can be done as normal.
+
+Beat Saber+ comes with these plugins;
+
+Cinema
+BeatSaver Downloader
+BeatSaver Updater
+BeatSaver Voting
+BeatTogether
+BetterSongSearch
+BS Utils
+BSML
+Camera2
+CustomAvatars
+Custom Miss Text
+Custom Notes
+Custom Platforms
+Custom Walls
+FastFail
+Intro Skip
+MenuPillars
+Menu Saber Colors
+MorePlaylists
+PlaylistManager
+Saber Factory
+ScoreSaber
+SiraUtil
+Smart Song Suggest
+SongCore
+
 <br />
 <br /><!-- END GetStarted.mustache -->
 <!-- START Setup.mustache -->
