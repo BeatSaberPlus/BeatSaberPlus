@@ -1,0 +1,18 @@
+{
+    "_version": "2.0.0",
+    "_songName": "Notetest",
+    "_songSubName": "",
+    "_songAuthorName": "",
+    "_levelAuthorName": "",
+    "_beatsPerMinute": 60.0,
+    "_songTimeOffset": 0.0,
+    "_shuffle": 0.0,
+    "_shufflePeriod": 0.0,
+    "_previewStartTime": 0.0,
+    "_previewDuration": 0.0,
+    "_songFilename": "SnapSave.wav",
+    "_coverImageFilename": "discord-pfp-1.png",
+    "_environmentName": "LizzoEnvironment",
+    "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+    "_difficultyBeatmapSets": []
+}
