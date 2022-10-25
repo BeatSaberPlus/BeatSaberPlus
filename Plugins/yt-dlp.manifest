@@ -1,0 +1,11 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "yt-dlp",
+  "name": "yt-dlp",
+  "author": "yt-dlp team",
+  "version": "2022.8.19",
+  "description": "A youtube-dl fork with additional features and fixes",
+  "files": [
+    "Libs/yt-dlp.exe"
+  ]
+}
