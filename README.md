@@ -92,6 +92,10 @@ Beat Saber+ comes with these plugins;
 - Smart Song Suggest
 - SongCore
 
+Beat Saber+ used these sabers, notes, environments and walls;
+
+- MWT - MK1 CC  by Mawntee (https://modelsaber.com/Sabers/?id=1663467302&pc)
+
 <br />
 <br /><!-- END GetStarted.mustache -->
 <!-- START Setup.mustache -->
