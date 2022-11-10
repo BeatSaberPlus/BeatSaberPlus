@@ -65,6 +65,7 @@ Beat Saber+ is here! Follow these steps to get started; **This method will inclu
 
 Starting Beat Saber again can be done as normal.
 
+# Credit
 Beat Saber+ comes with these plugins;
 
 - Cinema
