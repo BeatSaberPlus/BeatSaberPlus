@@ -41,7 +41,7 @@ Beat Saber+ is an upgrade to the base game featuring upgraded standard sabers, b
 
 ### Prerequisites
 - **A Windows PC that can run the Oculus or SteamVR Software aswell as Beat Saber and Beat Saber+**
-- **Administrator account**
+- An Administrator account **might be** required for some features within some mods
 - **Basic Knowledge about Beat Saber plugins and Custom Songs**
 
 ### Installation 
