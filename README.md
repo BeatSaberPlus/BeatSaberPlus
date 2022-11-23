@@ -15,7 +15,7 @@
 <!-- END Header.mustache -->
 <!-- START ShieldsFull.mustache -->
 <p align="center">
-  <img alt="Latest Stable Version" src="https://img.shields.io/badge/Latest%20Stable%20Version-1.25.1-orange" />
+  <img alt="Latest Stable Version" src="https://img.shields.io/badge/Latest%20Stable%20Version-1.26-orange" />
   <img alt="Latest Testing Version" src="https://img.shields.io/badge/Latest%20Testing%20Version-1.26-orange" />
 </p><!-- END ShieldsFull.mustache -->
 <!-- ShieldsBasic for shields without download count and last update date--> 
